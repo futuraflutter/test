@@ -5,5 +5,4 @@ void main() {
 void printDetails({required name, required place, required age}) {
   print("name is $name");
   print("from $place");
-  print(age);
 }
